@@ -1,0 +1,77 @@
+#staticbox{
+	position:fixed; 
+	/*height:;*/
+	width: 300px;
+	height:600px;
+	background-color:;
+border-color: green;
+	
+	
+}
+
+#pix{
+	position: absolute;
+	width: 180px;
+	height: 170px;
+	top: 50px;
+	border-radius: 100px;
+	left: 30px;
+}
+#cash{
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	border:2px solid purple;
+	border-radius: 12px;
+	top: 50%;
+left: 15%;
+line-height: 50px;
+color: purple;
+width: 200px;
+height: 150px;
+
+}
+.links{
+/*position: relative;
+top: 50%;
+right: 15%;*/
+line-height: 10px;
+
+color: purple;
+
+}
+
+#changingbox{
+position:static;
+width:75%;
+height:50px;
+background-color: purple;
+/*padding: 50px;*/
+margin-left: 300px;
+color: white;
+
+margin-top: 30px;
+}
+.card-body{
+	position:relative ;
+	top: 20px;
+
+	margin-left: 300px;
+	margin-right: 20px;
+	text-align: left;
+
+	border-left: 2px solid purple;
+	background-color: ghostwhite;
+
+
+}
+.cab{
+	border-top: 0px;
+	border-right: 0px;
+	border-left: 0px;
+	background-color: ghostwhite;
+	line-height: 30px;
+}
+label{
+	color: purple;
+}

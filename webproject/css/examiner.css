@@ -1,0 +1,77 @@
+#staticbox{
+	position:fixed; 
+	/*height:;*/
+	width: 300px;
+	height:600px;
+	background-color: white;
+	
+	
+}
+
+#pix{
+	position: absolute;
+	width: 180px;
+	height: 170px;
+	top: 50px;
+	border-radius: 100px;
+	left: 30px;
+}
+/*#fish{
+	text-align: center;
+	text-decoration: none;
+	color: purple;
+	
+}*/
+#fish,a{
+position: relative;
+top: 50%;
+left: 8%;
+line-height: 80px;
+color: purple;
+text-decoration: none;
+border-color: coral;
+border-radius: 5px;
+/*background-color: red;*/
+width: 90%;
+}
+#changingbox{
+position:static;
+width:80%;
+height:500px;
+background-color: purple;
+padding: 50px;
+margin-left: 310px;
+}
+#dash{
+	position: absolute;
+	color: white;
+	text-decoration: underline;
+}
+#white1{
+	position: absolute;
+	width: 30%;
+	height: 40%;
+	color: white;
+	background-color: white;
+	top: 120px;
+
+
+}
+
+#white2{
+	
+	position:absolute;
+	width: 35%;
+	height: 40%;
+	color: white;
+	background-color: white;
+	/*margin-left: 10px;*/
+	right: 5%;
+	top: 120px;
+	
+}
+#name{
+	position: absolute;
+	color: white;
+	left: 80%; 
+}
